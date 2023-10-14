@@ -1,3 +1,11 @@
+
+
+![Screen Shot 2023-10-13 at 10 11 06 PM](https://github.com/trottiemcqueen/meet-landing-page/assets/123763473/a8c0fad3-1b71-4598-8a37-f1ec38e61fe2)
+
+![Screen Shot 2023-10-13 at 10 12 11 PM](https://github.com/trottiemcqueen/meet-landing-page/assets/123763473/23fbd9f1-29b2-4973-8d65-e11be7fcd9a2)
+
+
+
 # Meet landing page solution
 
 
