@@ -33,8 +33,8 @@ starter-code/assets/desktop/Screen Shot 2023-10-13 at 10.12.11 PM.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/trottiemcqueen/meet-landing-page.git]
+- Live Site URL: []
 
 ## My process
 
